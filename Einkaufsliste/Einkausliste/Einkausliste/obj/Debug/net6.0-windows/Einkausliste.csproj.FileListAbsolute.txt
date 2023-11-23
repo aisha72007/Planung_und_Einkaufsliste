@@ -1,0 +1,16 @@
+H:\Einkaufsliste\Einkausliste\Einkausliste\bin\Debug\net6.0-windows\Einkausliste.exe
+H:\Einkaufsliste\Einkausliste\Einkausliste\bin\Debug\net6.0-windows\Einkausliste.deps.json
+H:\Einkaufsliste\Einkausliste\Einkausliste\bin\Debug\net6.0-windows\Einkausliste.runtimeconfig.json
+H:\Einkaufsliste\Einkausliste\Einkausliste\bin\Debug\net6.0-windows\Einkausliste.dll
+H:\Einkaufsliste\Einkausliste\Einkausliste\bin\Debug\net6.0-windows\Einkausliste.pdb
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\Einkausliste.Form1.resources
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\Einkausliste.csproj.GenerateResource.cache
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\Einkausliste.GeneratedMSBuildEditorConfig.editorconfig
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\Einkausliste.AssemblyInfoInputs.cache
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\Einkausliste.AssemblyInfo.cs
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\Einkausliste.csproj.CoreCompileInputs.cache
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\Einkausliste.dll
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\refint\Einkausliste.dll
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\Einkausliste.pdb
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\Einkausliste.genruntimeconfig.cache
+H:\Einkaufsliste\Einkausliste\Einkausliste\obj\Debug\net6.0-windows\ref\Einkausliste.dll
